@@ -1,0 +1,16 @@
+.row {
+  margin: 2rem 1rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.col-sm-4 {
+  padding-top: 2rem;
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  word-spacing: normal;
+  color: darkorange;
+}
